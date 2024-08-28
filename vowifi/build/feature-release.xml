@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CNA 403 3162</product-id>
+	<feature-name>Ericsson-VoWi-Fi-Analysis</feature-name>
+	<release>16B</release>
+	<system-area>Wi-Fi/VoWi-Fi</system-area>
+    <datasource-guid>0e81554f-ed55-498d-836c-d5f8ddbcfe7d</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
